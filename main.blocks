@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="zroRB/Y0d8^S:=zIf+]x" x="0" y="0"><statement name="HANDLER"><block type="serial_writeline" id="Pa7l|A0M+UAP$O+/0_*="><value name="text"><shadow type="text" id="E[B0/BYEa*O3{VBxj+-;"><field name="TEXT">test</field></shadow></value></block></statement></block></xml>
